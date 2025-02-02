@@ -66,4 +66,4 @@ if __name__ == "__main__":
 
     except ValueError:
         # Display an error message if the input time is invalid
-        print("Please enter a valid time in D:HH:MM:SS format.")
+        print("Please enter a valid time in D:HH:MM:SS formattttt.")
